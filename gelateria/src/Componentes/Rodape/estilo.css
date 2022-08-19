@@ -1,0 +1,33 @@
+.footer
+{
+    display: flex;
+    flex-flow: column;
+    color: white;
+    background: black;
+}
+
+.box-footer
+{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.imagem-footer
+{
+    width: 40%;
+    height: auto;
+}
+
+.imagem, .endereco, .contato, .horarios
+{
+    width: 200px;
+    height: auto;
+}
+
+.imagem
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

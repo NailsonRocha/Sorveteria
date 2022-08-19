@@ -1,0 +1,36 @@
+.header
+{
+    width: 100%;
+    height: auto;
+    background: #EEDD82;
+}
+
+.box-header
+{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+}
+
+.img-header
+{
+    width: 10%;
+    height: auto;
+}
+
+.nav-header
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+}
+
+.link-header
+{
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
